@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Привіт! 👋 My name is Ivan!</h1>
 
-<!--
-**bazinygero/bazinygero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm a front-end developer from Ukraine. 💙💛</h2>
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm in love with creating responsive websites and apps. 
+
+Currently, I'm working on my full-stack dev career by mastering the MERN stack!
+
+##
+
+You can view my portfolio to find out more here: <a href="https://ivancode.xyz/" target="_blank">ivancode.xyz</a>
+
+Best way to reach me: ivanzbyrnia@gmail.com
+
+##
+
+Always open to new job opportunities and freelance work!
+
+<h2>Thank you for reaching out and God bless you all! Peace!</h2>
